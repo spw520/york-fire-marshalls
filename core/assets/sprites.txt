@@ -1,0 +1,145 @@
+sprites.png
+size: 1142, 251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blueL
+  rotate: true
+  xy: 1, 117
+  size: 122, 103
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+blueR
+  rotate: true
+  xy: 106, 117
+  size: 122, 103
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+gooBall
+  rotate: false
+  xy: 990, 1
+  size: 106, 66
+  orig: 128, 128
+  offset: 17, 22
+  index: -1
+gooseFlying
+  rotate: false
+  xy: 913, 191
+  size: 116, 58
+  orig: 128, 128
+  offset: 7, 33
+  index: -1
+gooseIdleL
+  rotate: false
+  xy: 903, 1
+  size: 85, 93
+  orig: 128, 128
+  offset: 27, 0
+  index: -1
+gooseIdleR
+  rotate: false
+  xy: 913, 96
+  size: 85, 93
+  orig: 128, 128
+  offset: 16, 0
+  index: -1
+greenL
+  rotate: true
+  xy: 211, 117
+  size: 122, 103
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+greenR
+  rotate: true
+  xy: 316, 117
+  size: 122, 103
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+healthEmpty
+  rotate: true
+  xy: 1031, 177
+  size: 73, 88
+  orig: 128, 128
+  offset: 24, 21
+  index: -1
+healthFull
+  rotate: false
+  xy: 1068, 69
+  size: 73, 88
+  orig: 128, 128
+  offset: 24, 21
+  index: -1
+redL
+  rotate: true
+  xy: 421, 117
+  size: 122, 103
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+redR
+  rotate: true
+  xy: 526, 117
+  size: 122, 103
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+runAway
+  rotate: false
+  xy: 1, 1
+  size: 806, 114
+  orig: 870, 128
+  offset: 21, 9
+  index: -1
+tankEmpty1
+  rotate: false
+  xy: 631, 117
+  size: 92, 111
+  orig: 128, 128
+  offset: 14, 8
+  index: -1
+tankEmpty2
+  rotate: false
+  xy: 725, 117
+  size: 92, 111
+  orig: 128, 128
+  offset: 14, 8
+  index: -1
+tankEmpty3
+  rotate: false
+  xy: 809, 1
+  size: 92, 111
+  orig: 128, 128
+  offset: 14, 8
+  index: -1
+tankFull
+  rotate: false
+  xy: 819, 114
+  size: 92, 111
+  orig: 128, 128
+  offset: 14, 8
+  index: -1
+truckL
+  rotate: true
+  xy: 421, 117
+  size: 122, 103
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+truckR
+  rotate: true
+  xy: 526, 117
+  size: 122, 103
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+waterBall
+  rotate: true
+  xy: 1000, 69
+  size: 106, 66
+  orig: 128, 128
+  offset: 13, 24
+  index: -1

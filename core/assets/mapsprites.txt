@@ -1,0 +1,124 @@
+mapsprites.png
+size: 1988, 232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alienBase
+  rotate: true
+  xy: 1181, 117
+  size: 81, 122
+  orig: 128, 128
+  offset: 20, 1
+  index: -1
+aliens
+  rotate: false
+  xy: 1, 1
+  size: 806, 114
+  orig: 870, 128
+  offset: 21, 9
+  index: -1
+blueL
+  rotate: false
+  xy: 809, 117
+  size: 122, 103
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+blueR
+  rotate: false
+  xy: 1617, 1
+  size: 122, 103
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+fireStat
+  rotate: true
+  xy: 1305, 117
+  size: 81, 122
+  orig: 128, 128
+  offset: 20, 1
+  index: -1
+greenL
+  rotate: false
+  xy: 933, 117
+  size: 122, 103
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+greenR
+  rotate: false
+  xy: 1741, 1
+  size: 122, 103
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+healthEmpty
+  rotate: false
+  xy: 1824, 106
+  size: 73, 88
+  orig: 128, 128
+  offset: 24, 21
+  index: -1
+healthFull
+  rotate: false
+  xy: 1899, 106
+  size: 73, 88
+  orig: 128, 128
+  offset: 24, 21
+  index: -1
+redL
+  rotate: false
+  xy: 1057, 117
+  size: 122, 103
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+redR
+  rotate: false
+  xy: 1865, 1
+  size: 122, 103
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+refuel
+  rotate: false
+  xy: 1, 117
+  size: 806, 114
+  orig: 870, 128
+  offset: 21, 9
+  index: -1
+station
+  rotate: false
+  xy: 809, 1
+  size: 806, 114
+  orig: 870, 128
+  offset: 21, 9
+  index: -1
+tankEmpty1
+  rotate: true
+  xy: 1429, 117
+  size: 92, 111
+  orig: 128, 128
+  offset: 14, 8
+  index: -1
+tankEmpty2
+  rotate: false
+  xy: 1542, 117
+  size: 92, 111
+  orig: 128, 128
+  offset: 14, 8
+  index: -1
+tankEmpty3
+  rotate: false
+  xy: 1636, 106
+  size: 92, 111
+  orig: 128, 128
+  offset: 14, 8
+  index: -1
+tankFull
+  rotate: false
+  xy: 1730, 106
+  size: 92, 111
+  orig: 128, 128
+  offset: 14, 8
+  index: -1
